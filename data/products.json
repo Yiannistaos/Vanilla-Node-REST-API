@@ -1,0 +1,20 @@
+[
+    {
+    "id": "1",
+    "name": "Cookies policy notification bar",
+    "description": "lorem lorem lorem",
+    "price": 29.00
+    },
+    {
+        "id": "2",
+        "name": "Monthly Archive",
+        "description": "lorem lorem lorem",
+        "price": 29.00
+    },
+    {
+        "id": "3",
+        "name": "Fix 404 Error Links",
+        "description": "lorem lorem lorem",
+        "price": 29.00
+    }
+]
