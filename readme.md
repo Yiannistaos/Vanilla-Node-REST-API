@@ -1,7 +1,5 @@
 # Vanilla Node REST API
 
-Let's create a REST API using Node.js only, without Express
-
 > Full CRUD REST API using Node.js with no framework
 
 This is for learning/experimental purposes. In most cases, you would use something like Express in a production project
